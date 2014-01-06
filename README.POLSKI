@@ -1,0 +1,42 @@
+1) O projekcie DreamDesktop
+------------------------------------------------------------------------------------
+
+DreamDesktop jest animowaną tapetą przeznaczoną dla środowiska KDE 4.
+Projekt został przetestowany pod KDE 4.9.3. Powinien jednak również działać
+pod KDE z serii 4.8.x / 4.9.x
+
+Strona domowa: http://www.jarzebski.pl/projekty/dreamdesktop.html
+
+2) Wymagane zależności
+------------------------------------------------------------------------------------
+
+* FFmpeg (http://ffmpeg.org/)
+
+3) Jak skompilować?
+------------------------------------------------------------------------------------
+
+> cd plasma-wallpaper-dreamdesktop
+> mkdir build
+> cd build
+> cmake .. -DCMAKE_INSTALL_PREFIX=`kde4-config --prefix`
+> make
+> sudo make install
+
+Być może okaże się konieczne zrestartowanie KDE
+
+4) Gdzie znajdziesz animacje?
+------------------------------------------------------------------------------------
+
+Animacją może być dowolny film odtwarzany przez FFMPEG. Odpowiednie animacje 
+znajdziesz pod adresem: http://www.dreamscene.org/
+
+5) Jak możesz pomóć?
+
+* Po pierwsze, możesz zgłaszać do mnie zauważone błędy na adres blog@jarzebski.pl.
+
+* Po drugie, jeśli posiadasz doświadczenie w programowaniu, możesz podesłać swoje
+  sugestie lub łatki
+
+* Jeśli w jakiś sposób chcesz wesprzeć rozwój tego projektu, możesz przekazać na ten 
+  cel dowolną darowiznę. Odpowiedni formularz znajdziesz na stronie internetowej 
+  projektu.

@@ -1,0 +1,14 @@
+19/02/2013 - version 0.3.0
+
+* avoids paint areas that the wallpaper is not showed (thanks to Raul Fernandes)
+* fix crashes about freeing uninitialized members (thanks to Raul Fernandes)
+
+20/11/2012 - version 0.2.0
+
+* fix compilation with FFmpeg 1.0
+* small cleanup compiler warnings
+* clean sources
+
+18/11/2012 - version 0.1.0
+
+* first initial release
