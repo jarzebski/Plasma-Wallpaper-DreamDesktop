@@ -16,7 +16,8 @@ Dependencies
 How To Build
 ------------
 
-```# cd plasma-wallpaper-dreamdesktop
+```bash
+# cd plasma-wallpaper-dreamdesktop
 # mkdir build
 # cd build
 # cmake .. -DCMAKE_INSTALL_PREFIX=`kde4-config --prefix`
