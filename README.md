@@ -1,6 +1,9 @@
 DreamDesktop. Animated wallpaper for KDE 4 environment
 ======================================================
 
+The project is no longer being developed
+----------------------------------------
+
 About DreamDesktop
 ------------------
 
@@ -32,10 +35,4 @@ Where can you find animations
 
 Animation can be any video output from FFMPEG. Beautiful animations can be found at: http://www.dreamscene.org/
 
-How can you help?
------------------
-
- * First, you can report bugs to me at the address blog@jarzebski.pl.
- * Second, if you  have programming experience more from me you can send your comments or patches.
- * If in any way you want to support the development of this project, you can give for this purpose any donation. The appropriate form can be found on the project website.
  
